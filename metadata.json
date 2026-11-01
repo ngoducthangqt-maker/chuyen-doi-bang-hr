@@ -1,0 +1,6 @@
+{
+  "name": "HR TimeSync — Chuyển đổi Bảng công Chi tiết",
+  "description": "Ứng dụng Hành chính Nhân sự chuyển đổi bảng tổng hợp chấm công tháng (HC & SX) sang bảng dữ liệu chi tiết Giờ vào - Giờ ra cho nhà máy sản xuất.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
